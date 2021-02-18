@@ -1,5 +1,5 @@
 import wixAnimations from "wixAnimations";
-import wixWindow from "wix-windowz333";
+import wixWindow from "wix-windowz111";
 
 const slider01Timeline = wixAnimations.timeline({ repeat: -1 });
 const slider02Timeline = wixAnimations.timeline();
